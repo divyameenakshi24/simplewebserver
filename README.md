@@ -66,7 +66,7 @@ httpd.serve_forever()
 ## OUTPUT:
 ![output](./static/img/d.png)
 
-![output](./static/img/d2.png)
+![output](./static/img/d1.png)
 
 ## RESULT:
 Thus, a webserver is designed to display multiplication table and is hosted in the URL
